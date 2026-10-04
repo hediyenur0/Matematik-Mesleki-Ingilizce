@@ -1,6 +1,10 @@
-# Week 02
+# Week 02 - Mathematics
 
-...
+## Konular
 
-[← Previous](../Week-01/README.md) | [Next →](../Week-03/README.md)
+- Sayı Kümeleri
+- Temel İşlemler
 
+---
+
+[← Previous](../../Week-01/Mathematics/README.md) | [Ana Sayfa](../../README.md) | [Next →](../../Week-03/Mathematics/README.md)
