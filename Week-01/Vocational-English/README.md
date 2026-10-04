@@ -10,4 +10,7 @@
 
 [← Ana Sayfa](../../README.md) | [Next →](../../Week-02/Vocational-English/README.md)
 
+## Exercises
+
+![Week 01 Vocational English Exercises](./Week-01-Vocational-English-Exercises.png)
 
