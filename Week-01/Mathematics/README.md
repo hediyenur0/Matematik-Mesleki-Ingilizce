@@ -1,6 +1,11 @@
-# Week 01
+# Week 01 - Mathematics
 
-...
+## Konular
 
-[Next →](../Week-02/README.md)
+- Sayılar
+
+
+---
+
+[← Ana Sayfa](../../README.md) | [Next →](../../Week-02/Mathematics/README.md)
 
