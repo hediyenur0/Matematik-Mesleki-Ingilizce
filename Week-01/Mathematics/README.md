@@ -9,3 +9,8 @@
 
 [← Ana Sayfa](../../README.md) | [Next →](../../Week-02/Mathematics/README.md)
 
+```
+## Solution
+
+![Week 01 Mathematics Solution](./Week-01-Mathematics-Solution.jpg)
+```
