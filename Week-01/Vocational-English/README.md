@@ -1,6 +1,13 @@
-# Week 01
+# Week 01 - Vocational English
 
-...
+## Topics
 
-[Next →](../Week-02/README.md)
+- Basic Structures
+- Simple Present Tense
+- Present Continuous Tense
+
+---
+
+[← Ana Sayfa](../../README.md) | [Next →](../../Week-02/Vocational-English/README.md)
+
 
