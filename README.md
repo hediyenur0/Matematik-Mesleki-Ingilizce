@@ -36,4 +36,4 @@ Matematik-Mesleki-Ingilizce/
 
 ## 🎯 Purpose | Amaç
 - **The purpose of this repository is to organize Mathematics and Vocational English course materials on a weekly basis.**
-- *Ders materyallerini haftalık olarak düzenlemek, kolay erişilebilir hale getirmek ve ders sürecini GitHub üzerinden takip etmek.*
+- *Bu repository'nin amacı ders materyallerini haftalık olarak düzenlemek, kolay erişilebilir hale getirmek ve ders sürecini GitHub üzerinden takip etmek.*
