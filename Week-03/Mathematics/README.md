@@ -1,6 +1,11 @@
-# Week 03
+# Week 03 - Mathematics
 
-...
+## Konular
 
-[← Previous](../Week-02/README.md)
+- EBOB-EKOK Problemleri
+- EBOB ve EKOK Uygulamaları
+
+---
+
+[← Previous](../../Week-02/Mathematics/README.md) | [Ana Sayfa](../../README.md)
 
