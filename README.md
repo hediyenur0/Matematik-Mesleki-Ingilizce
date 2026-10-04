@@ -5,15 +5,15 @@
 ## 📚 Course Content | Ders İçeriği
  **Week 01**
 - **Mathematics:** *Sayılar*
-- **Vocational English:** *Basic Structures,Simple Present Tense,Present Continuous Tense*
+- **Vocational English:** *Basic Structures, Simple Present Tense, Present Continuous Tense*
 
  **Week 02**
-- **Mathematics:** *Sayı Kümeleri,Sayılarla Temel İşlemler*
-- **Vocational English:** *Reading Comprehension,Read the text and answer the questions,Basic vocabulary related to the text*
+- **Mathematics:** *Sayı Kümeleri, Sayılarla Temel İşlemler*
+- **Vocational English:** *Reading Comprehension, Read the text and answer the questions, Basic vocabulary related to the text*
 
  **Week 03**
-- **Mathematics:** *EBOB-EKOK,EBOB ve EKOK ile ilgili uygulamalar*
-- **Vocational English:** *Reading a short text,Understanding the main idea,Answering comprehension questions,Vocabulary from the reading text*
+- **Mathematics:** *EBOB-EKOK, EBOB ve EKOK ile ilgili uygulamalar*
+- **Vocational English:** *Reading a short text, Understanding the main idea, Answering comprehension questions, Vocabulary from the reading text*
 
 ## 📁 Repository Structure | Repository Yapısı
 ```text
